@@ -15,23 +15,3 @@ body {
   font-family:Verdana, Arial, Helvetica, sans-serif;
   color:#666666;
 }
-/* Header Menu */
-#topmenu {
-  display:block;
-  list-style:none;
-  padding:0 0px 0px 278px;
-  float: right;
-  width: 415px;
-}
-#topmenu li {
-  display:inline;
-}
-#topmenu a {
-  dislpay:block;
-  float:left;
-  height:28px;
-  margin:0px 0px 0px 0px;
-  text-decoration:none;
-  padding:9px 15px 0px 15px;
-  text-align:center;
-}
