@@ -1,5 +1,5 @@
-body {
-  background:#ffffff url("images/background.jpg") repeat-x;
+#body {
+  background: #ffffff url("images/background.jpg") repeat-x;
 }
 #wrap {
   width:700px;
