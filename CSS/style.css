@@ -78,3 +78,21 @@ h1, h2, h3, h4, h5, h6 {
   font-size:24px;
   color: #F2F7F3;
 }
+#mainpage h2 {
+  font-size:18px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #B52E10;
+}
+#mainpage h3 {
+  font-size:20px;
+}
+#mainpage h4 {
+  font-size:18px;
+}
+#mainpage h5 {
+  font-size:16px;
+}
+#mainpage h6 {
+  font-size:14px;
+}
