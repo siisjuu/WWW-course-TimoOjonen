@@ -1,4 +1,4 @@
-#body {
+body {
   background: #ffffff url("images/background.jpg") repeat-x;
 }
 #wrap {
@@ -13,7 +13,7 @@
   height:242X;
   margin:0px auto 15px auto;
   font-family:Verdana, Arial, Helvetica, sans-serif;
-  color:#ff0000;
+  color:#666666;
 }
 /* Header Menu */
 #topmenu {
