@@ -9,7 +9,7 @@ body {
   color:#666666;
 }
 
-/* Header */
+/* HEADER */
 
 #header {
   height:242X;
@@ -23,7 +23,7 @@ body {
   height: 78px;
 }
 
-/* Header Menu */
+/* HEADER MENU */
 
 #topmenu {
   display:block;
@@ -56,7 +56,7 @@ body {
   background-color: #B42D0F;
 }
 
-/*Content*/
+/* CONTENT */
 
 #content {
   background-color: #ffffff;
