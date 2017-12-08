@@ -1,5 +1,5 @@
 body {
-  background: #FFFFFF url("https://raw.githubusercontent.com/siisjuu/WWW-course-TimoOjonen/master/images/background.jpg") repeat-x;
+  background: #FFFFFF url("https://raw.githubusercontent.com/siisjuu/WWW-course-TimoOjonen/master/images/background.jpg");
 }
 #wrap {
   width:700px;
@@ -8,7 +8,9 @@ body {
   font-size:12px;
   color:#666666;
 }
+
 /* Header */
+
 #header {
   height:242X;
   background: url("https://raw.githubusercontent.com/siisjuu/WWW-course-TimoOjonen/master/images/header.jpg") no-repeat left top;
@@ -20,7 +22,9 @@ body {
 #topbar {
   height: 78px;
 }
+
 /* Header Menu */
+
 #topmenu {
   display:block;
   list-style:none;
@@ -53,6 +57,7 @@ body {
 }
 
 /*Content*/
+
 #content {
   background-color: #ffffff;
 }
@@ -101,6 +106,8 @@ h1, h2, h3, h4, h5, h6 {
 #mainpage h6 {
   font-size:14px;
 }
+
+/* FOOTER */
 
 #footer {
   margin:0 auto;
