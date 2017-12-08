@@ -11,9 +11,10 @@ body {
 /* Header */
 #header {
   height:242X;
-  margin:0px auto 15px auto;
+  background: url(images/header.jpg) no-repeat left top;
+  /*margin:0px auto 15px auto;
   font-family:Verdana, Arial, Helvetica, sans-serif;
-  color:#ff0000;
+  color:#ff0000;*/
 }
 #topbar {
   height: 78px;
