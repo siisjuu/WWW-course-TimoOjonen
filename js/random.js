@@ -51,6 +51,7 @@ function showError(error) {
 	}
 }
 
+// Form Validation
 function validateForm() {
 	let number, text;
 	number = document.getElementById("num").value;
