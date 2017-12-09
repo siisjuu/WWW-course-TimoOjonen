@@ -50,3 +50,15 @@ function showError(error) {
 			break;
 	}
 }
+
+function validateForm() {
+	let number, text;
+	number = document.getElementById("num").value;
+	
+	if(isNaN(number) || number < 1 || number > 100) {
+		text = "Input not valid";
+	} else {
+		text = "input OK";
+	}
+	document.getElementById("numberOutput").innerHTML = text;
+}
